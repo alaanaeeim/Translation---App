@@ -1,0 +1,9 @@
+{
+    "color": "Color",
+    "storage": "Storage",
+    "ram": "RAM",
+    "camera": "Camera",
+    "screenSize": "Screen Size",
+    "battery": "Battery",
+    "colorValue": "Red"
+}
